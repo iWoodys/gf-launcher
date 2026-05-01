@@ -1,17 +1,9 @@
 {
   "version": "1.0.1",
-  "noticias": [
-    "Bienvenido a GF Chronicles",
-    "Evento x2 EXP este finde",
-    "Únete a nuestro Discord"
-  ]
-}
-{
-  "version": "1.0.1",
   "download_url": "https://tusitio.com/parche.zip",
+  "discord": "https://discord.gg/tu-servidor",
+  "website": "https://tusitio.com",
   "noticias": [
-    "Nuevo parche disponible",
-    "Evento activo",
-    "Entrá al Discord"
+    "✧ - Akari - ✦: Test"
   ]
 }
