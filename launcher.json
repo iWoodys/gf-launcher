@@ -1,9 +1,13 @@
 {
-  "version": "1.0.1",
+  "version": "1.0.0",
   "download_url": "https://tusitio.com/parche.zip",
-  "discord": "https://discord.gg/tu-servidor",
-  "website": "https://tusitio.com",
+  "discord": "  https://discord.gg/zzhPAu4SqF",
+  "website": "  https://discord.gg/zzhPAu4SqF",
   "noticias": [
-    "✧ - Akari - ✦:  We'll soon be launching a new challenge, so all players should be on the lookout and upgrade their equipment; they'll need it."
+    {
+      "author": "Akari",
+      "date": "04/05/2026 12:30",
+      "content": "Nueva noticia del servidor"
+    }
   ]
 }
