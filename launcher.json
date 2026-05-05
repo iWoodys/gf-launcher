@@ -1,13 +1,19 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.2",
   "download_url": "https://tusitio.com/parche.zip",
-  "discord": "  https://discord.gg/zzhPAu4SqF",
-  "website": "  https://discord.gg/zzhPAu4SqF",
+  "discord": "https://discord.gg/tu-servidor",
+  "repair_base_url": "https://update.icestorm.online/Chronicles/",
+  "repair_manifest_url": "https://update.icestorm.online/Chronicles/fileInfo.json",
   "noticias": [
     {
-      "author": "Akari",
-      "date": "04/05/2026 12:30",
-      "content": "Nueva noticia del servidor"
+      "author": "GM Akari",
+      "date": "05/05/2026 15:30",
+      "content": {
+        "es": "Nuevo evento disponible.",
+        "en": "New event available.",
+        "fr": "Nouvel événement disponible.",
+        "pt_br": "Novo evento disponível."
+      }
     }
   ]
 }
