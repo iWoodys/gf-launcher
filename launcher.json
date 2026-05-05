@@ -6,6 +6,16 @@
   "repair_manifest_url": "https://update.icestorm.online/Chronicles/fileInfo.json",
   "noticias": [
     {
+      "author": "GM",
+      "date": "05/05/2026 15:48",
+      "content": {
+        "es": "Probando",
+        "en": "Testing",
+        "fr": "Propositus",
+        "pt_br": "Testando."
+      }
+    },
+    {
       "author": "GM Akari",
       "date": "05/05/2026 15:30",
       "content": {
