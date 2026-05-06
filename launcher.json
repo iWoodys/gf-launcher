@@ -4,16 +4,5 @@
   "discord": "https://discord.gg/zzhPAu4SqF",
   "repair_base_url": "https://update.icestorm.online/Chronicles/",
   "repair_manifest_url": "https://update.icestorm.online/Chronicles/fileInfo.json",
-  "noticias": [
-    {
-      "author": "Exolus",
-      "date": "06/05/2026 15:30",
-      "content": {
-        "es": "Se retiro el Captcha, y se soluciono el problema para la creacion de nuevos personajes.",
-        "en": "The Captcha was removed, and the problem was solved for the creation of new characters.",
-        "fr": "Le captcha a été retiré et le problème pour la création de nouveaux personnages a été résolu.",
-        "pt_br": "O Captcha foi removido e o problema foi resolvido para a criação de novos personagens."
-      }
-    }
-  ]
+  "noticias": []
 }
