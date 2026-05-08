@@ -6,13 +6,13 @@
   "repair_manifest_url": "https://update.icestorm.online/Chronicles/fileInfo.json",
   "noticias": [
     {
-      "author": "[GM]Exolus",
-      "date": "06/05/2026 22:03",
+      "author": "Exolus",
+      "date": "08/05/2026 19:05",
       "content": {
-        "es": "Hola a todos, tenemos nuevo Launcher. Akari farmeo aura esta vez.",
-        "en": "Hi everyone, we have a new Launcher. Akari farmeo aura this time.",
-        "fr": "Bonjour à tous, nous avons un nouveau Launcher. Akari farmeo aura cette fois.",
-        "pt_br": "Olá a todos, temos um novo Launcher. Akari farmeo aura desta vez."
+        "es": "Test Launcher",
+        "en": "Test Launcher",
+        "fr": "Test Launcher",
+        "pt_br": "Iniciador de teste"
       }
     }
   ]
