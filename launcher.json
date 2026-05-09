@@ -4,16 +4,5 @@
   "discord": "https://discord.gg/zzhPAu4SqF",
   "repair_base_url": "https://update.icestorm.online/Chronicles/",
   "repair_manifest_url": "https://update.icestorm.online/Chronicles/fileInfo.json",
-  "noticias": [
-    {
-      "author": "Exolus",
-      "date": "08/05/2026 19:05",
-      "content": {
-        "es": "Test Launcher",
-        "en": "Test Launcher",
-        "fr": "Test Launcher",
-        "pt_br": "Iniciador de teste"
-      }
-    }
-  ]
+  "noticias": []
 }
