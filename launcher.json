@@ -4,5 +4,16 @@
   "discord": "https://discord.gg/zzhPAu4SqF",
   "repair_base_url": "https://update.icestorm.online/Chronicles/",
   "repair_manifest_url": "https://update.icestorm.online/Chronicles/fileInfo.json",
-  "noticias": []
+  "noticias": [
+    {
+      "author": "[GM]",
+      "date": "09/05/2026 19:32",
+      "content": {
+        "es": "Experiencia x90 activada todo el fin de semana",
+        "en": "Experiencia x90 activada todo el fin de semana",
+        "fr": "Experiencia x90 activada todo el fin de semana",
+        "pt_br": "Experiencia x90 activada todo el fin de semana"
+      }
+    }
+  ]
 }
